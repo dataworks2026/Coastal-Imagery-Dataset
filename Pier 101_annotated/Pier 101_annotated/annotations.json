@@ -1,0 +1,4634 @@
+{
+  "inspection_id": "b82780ed-5dca-42d7-a4ff-70bd123e7784",
+  "export_version": "1.1",
+  "total_images": 49,
+  "total_annotations": 157,
+  "images": [
+    {
+      "image_id": "547e5268-7809-4712-9cfb-7644551558ee",
+      "filename": "Pier 101-01.jpg",
+      "s3_key": "Pier 101/2026-02-12/Raw/Pier 101-01.jpg",
+      "asset_type": "pier",
+      "segment": null,
+      "elevation": null,
+      "side_face": null,
+      "structural_segments": [],
+      "annotation_status": "completed",
+      "num_annotations": 3,
+      "annotations": [
+        {
+          "annotation_id": "1770927855928-3p1mo8d04",
+          "bbox": {
+            "x": 1895.2191057623072,
+            "y": 880.1444431327408,
+            "width": 710.852260184531,
+            "height": 762.3706413117134
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "DE",
+            "label": "Decay"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "FD"
+            },
+            {
+              "code": "SZ"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1770927869941-ca1viofll",
+          "bbox": {
+            "x": 321.03605904898967,
+            "y": 250.39253218794371,
+            "width": 1079.8032552844193,
+            "height": 1163.6360554194812
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "DE",
+            "label": "Decay"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "FD"
+            },
+            {
+              "code": "SZ"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1770927871490-fb8799yw1",
+          "bbox": {
+            "x": 2703.147482827952,
+            "y": 246.99368851350218,
+            "width": 526.7143147936641,
+            "height": 565.6469142626769
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "DE",
+            "label": "Decay"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "FD"
+            },
+            {
+              "code": "SZ"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        }
+      ]
+    },
+    {
+      "image_id": "557b3aa7-22ce-4138-989f-0505863d64cb",
+      "filename": "Pier 101-02.jpg",
+      "s3_key": "Pier 101/2026-02-12/Raw/Pier 101-02.jpg",
+      "asset_type": "pier",
+      "segment": null,
+      "elevation": null,
+      "side_face": null,
+      "structural_segments": [],
+      "annotation_status": "completed",
+      "num_annotations": 2,
+      "annotations": [
+        {
+          "annotation_id": "1770927900759-vjntdxrqn",
+          "bbox": {
+            "x": 1081.862271633234,
+            "y": 713.2943335644694,
+            "width": 1537.036032259412,
+            "height": 876.428007380017
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "DE",
+            "label": "Decay"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "FD"
+            },
+            {
+              "code": "SZ"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1770927914991-3o9kct5nq",
+          "bbox": {
+            "x": 1504.0524264169353,
+            "y": 87.27432829302855,
+            "width": 719.0426073659906,
+            "height": 481.04695141910736
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "FD"
+            }
+          ],
+          "notes": "Broken Cables.",
+          "defect_id": null
+        }
+      ]
+    },
+    {
+      "image_id": "29f0e45e-41d8-4604-8dd8-fe4078ba8e7b",
+      "filename": "Pier 101-03.jpg",
+      "s3_key": "Pier 101/2026-02-12/Raw/Pier 101-03.jpg",
+      "asset_type": "dock",
+      "segment": null,
+      "elevation": null,
+      "side_face": null,
+      "structural_segments": [],
+      "annotation_status": "completed",
+      "num_annotations": 4,
+      "annotations": [
+        {
+          "annotation_id": "1770927951242-ks09uit72",
+          "bbox": {
+            "x": 1987.8032356040499,
+            "y": 1727.0980984074608,
+            "width": 216.0655690873969,
+            "height": 233.10189293281857
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "FD"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1770928048649-yen89dp6p",
+          "bbox": {
+            "x": 2247.0819185089263,
+            "y": 1856.599150036805,
+            "width": 587.6983479177192,
+            "height": 276.2689101426001
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "DE",
+            "label": "Decay"
+          },
+          "severity": {
+            "level": 1,
+            "label": "Minor"
+          },
+          "structural_segments": [
+            {
+              "code": "FD"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1770928061198-hq2g2nua8",
+          "bbox": {
+            "x": 2402.6491282518514,
+            "y": 2227.835498040924,
+            "width": 371.632778830323,
+            "height": 328.0693307943381
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "FD"
+            }
+          ],
+          "notes": "Broken cables.",
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1770928102617-cc36rx6r4",
+          "bbox": {
+            "x": 2169.2983136374633,
+            "y": 2607.705249486999,
+            "width": 596.3409706812153,
+            "height": 457.5703824236811
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "DE",
+            "label": "Decay"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "FD"
+            },
+            {
+              "code": "SZ"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        }
+      ]
+    },
+    {
+      "image_id": "2413b3b8-f656-450b-8ad9-8c990e97a6f8",
+      "filename": "Pier 101-04.jpg",
+      "s3_key": "Pier 101/2026-02-12/Raw/Pier 101-04.jpg",
+      "asset_type": "dock",
+      "segment": null,
+      "elevation": null,
+      "side_face": null,
+      "structural_segments": [],
+      "annotation_status": "completed",
+      "num_annotations": 5,
+      "annotations": [
+        {
+          "annotation_id": "1770994930761-siu5emj6r",
+          "bbox": {
+            "x": 1735.005709160859,
+            "y": 1866.308994770603,
+            "width": 237.67201495354232,
+            "height": 308.8551396753976
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 1,
+            "label": "Minor"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": "Barge Pier",
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1770995449498-y11r76hyi",
+          "bbox": {
+            "x": 2075.6689305942696,
+            "y": 2008.8575207746326,
+            "width": 205.9824129597363,
+            "height": 190.06470133870562
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 1,
+            "label": "Minor"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1770995461940-vsvprbl1h",
+          "bbox": {
+            "x": 2693.6161694734797,
+            "y": 1961.3413454399556,
+            "width": 499.111231402439,
+            "height": 182.14533878292687
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 1,
+            "label": "Minor"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1770995469669-3eku71lsn",
+          "bbox": {
+            "x": 3406.6322143341063,
+            "y": 1897.9864449937209,
+            "width": 459.49922891018224,
+            "height": 308.85513967539714
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 2,
+            "label": "Moderate"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1770995479893-7vy08xx1y",
+          "bbox": {
+            "x": 4238.484266671504,
+            "y": 1921.7445326610589,
+            "width": 388.1976244241201,
+            "height": 308.8551396753976
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 1,
+            "label": "Minor"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        }
+      ]
+    },
+    {
+      "image_id": "06009176-3279-4fff-ba3d-159ba6ee301b",
+      "filename": "Pier 101-05.jpg",
+      "s3_key": "Pier 101/2026-02-12/Raw/Pier 101-05.jpg",
+      "asset_type": "pier",
+      "segment": null,
+      "elevation": null,
+      "side_face": null,
+      "structural_segments": [],
+      "annotation_status": "completed",
+      "num_annotations": 2,
+      "annotations": [
+        {
+          "annotation_id": "1770995701805-lp49h3h95",
+          "bbox": {
+            "x": 1019.8137090798681,
+            "y": 161.16532334710087,
+            "width": 599.8904171058048,
+            "height": 551.6875511543574
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 2,
+            "label": "Moderate"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1770995715297-ivwm7jyhd",
+          "bbox": {
+            "x": 2069.6219390150263,
+            "y": 796.8053279379909,
+            "width": 1019.8137090798679,
+            "height": 731.585665661213
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "BG",
+            "label": "Biological Growth"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "SZ"
+            },
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        }
+      ]
+    },
+    {
+      "image_id": "a2d0dd9f-ee0f-4283-8415-da1d4b8c4f5f",
+      "filename": "Pier 101-06.jpg",
+      "s3_key": "Pier 101/2026-02-12/Raw/Pier 101-06.jpg",
+      "asset_type": "pier",
+      "segment": null,
+      "elevation": null,
+      "side_face": null,
+      "structural_segments": [],
+      "annotation_status": "completed",
+      "num_annotations": 3,
+      "annotations": [
+        {
+          "annotation_id": "1770995735543-w6xo2254z",
+          "bbox": {
+            "x": 947.8268590271715,
+            "y": 107.19588899504431,
+            "width": 671.8772671585014,
+            "height": 407.76905954887286
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 2,
+            "label": "Moderate"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1770995748679-ma7e98r0u",
+          "bbox": {
+            "x": 2159.6055015808975,
+            "y": 628.9299099139948,
+            "width": 845.7819099713885,
+            "height": 689.5504615034763
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "BG",
+            "label": "Biological Growth"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "SZ"
+            },
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1770995758905-r5ocxvoka",
+          "bbox": {
+            "x": 3221.4115398581716,
+            "y": 53.22645464298761,
+            "width": 617.8871296189792,
+            "height": 425.75887099955827
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 1,
+            "label": "Minor"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        }
+      ]
+    },
+    {
+      "image_id": "753391f7-0b21-4f88-a653-02aee8a92782",
+      "filename": "Pier 101-07.jpg",
+      "s3_key": "Pier 101/2026-02-12/Raw/Pier 101-07.jpg",
+      "asset_type": "pier",
+      "segment": null,
+      "elevation": null,
+      "side_face": null,
+      "structural_segments": [],
+      "annotation_status": "completed",
+      "num_annotations": 4,
+      "annotations": [
+        {
+          "annotation_id": "1770995774047-bqtghev6t",
+          "bbox": {
+            "x": 791.8553505796624,
+            "y": 443.00570274117473,
+            "width": 701.8717880137915,
+            "height": 389.77924809818734
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 2,
+            "label": "Moderate"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1770995788144-5kzqpt84s",
+          "bbox": {
+            "x": 1997.63508896233,
+            "y": 460.9955141918603,
+            "width": 455.91671700041144,
+            "height": 653.6298160415755
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 1,
+            "label": "Minor"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1770995795420-u1l1e78wl",
+          "bbox": {
+            "x": 3053.4422230685464,
+            "y": 119.18909662883452,
+            "width": 551.8991837373406,
+            "height": 533.6977397036718
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 2,
+            "label": "Moderate"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1770995802946-6e11c9oft",
+          "bbox": {
+            "x": 1289.7643967774802,
+            "y": 1972.139676049448,
+            "width": 887.8378173165914,
+            "height": 737.5822694781078
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "BG",
+            "label": "Biological Growth"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "SZ"
+            },
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        }
+      ]
+    },
+    {
+      "image_id": "1444c200-31a7-4829-a4e0-33d3b9a23c5a",
+      "filename": "Pier 101-08.jpg",
+      "s3_key": "Pier 101/2026-02-12/Raw/Pier 101-08.jpg",
+      "asset_type": "pier",
+      "segment": null,
+      "elevation": null,
+      "side_face": null,
+      "structural_segments": [],
+      "annotation_status": "completed",
+      "num_annotations": 6,
+      "annotations": [
+        {
+          "annotation_id": "1770995816875-qek8hh84i",
+          "bbox": {
+            "x": 108.84584842637187,
+            "y": 1008.7194357301623,
+            "width": 429.33640212624465,
+            "height": 308.2783120537323
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 1,
+            "label": "Minor"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1770995829675-vuq20iib2",
+          "bbox": {
+            "x": 713.5450063506602,
+            "y": 1238.4170015741195,
+            "width": 665.1690737167172,
+            "height": 404.993076619609
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 2,
+            "label": "Moderate"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1770995838164-a67yc4mz2",
+          "bbox": {
+            "x": 1705.2516253464928,
+            "y": 1280.7297110716904,
+            "width": 507.94729265640217,
+            "height": 356.63569433667067
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 2,
+            "label": "Moderate"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1770995845321-uig2prj7z",
+          "bbox": {
+            "x": 2648.582311708383,
+            "y": 1093.3448547253045,
+            "width": 513.9942842356451,
+            "height": 380.81438547813985
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 2,
+            "label": "Moderate"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1770995857125-ngaaj7nsn",
+          "bbox": {
+            "x": 2775.569134872483,
+            "y": 1691.7674604766669,
+            "width": 719.5919979299027,
+            "height": 374.76971269277203
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "BG",
+            "label": "Biological Growth"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "SZ"
+            },
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1770995869224-4hn8cbqa2",
+          "bbox": {
+            "x": 3525.3960906986013,
+            "y": 1147.7469097936103,
+            "width": 393.0544526507865,
+            "height": 501.7078411854854
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 2,
+            "label": "Moderate"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        }
+      ]
+    },
+    {
+      "image_id": "3ff64551-bc85-4312-aeef-0a02c14d796c",
+      "filename": "Pier 101-09.jpg",
+      "s3_key": "Pier 101/2026-02-12/Raw/Pier 101-09.jpg",
+      "asset_type": "pier",
+      "segment": null,
+      "elevation": null,
+      "side_face": null,
+      "structural_segments": [],
+      "annotation_status": "completed",
+      "num_annotations": 6,
+      "annotations": [
+        {
+          "annotation_id": "1770995885288-tyzj2awgw",
+          "bbox": {
+            "x": 229.7496144550909,
+            "y": 1604.970030429882,
+            "width": 689.2488433652726,
+            "height": 435.5649405678683
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 1,
+            "label": "Minor"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1770995978166-b5kn2jz07",
+          "bbox": {
+            "x": 1156.6704727739057,
+            "y": 1525.7764048720874,
+            "width": 657.5809175731505,
+            "height": 356.3713150100741
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 2,
+            "label": "Moderate"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1770995990599-n6vtcu7pn",
+          "bbox": {
+            "x": 1124.9808707801,
+            "y": 1929.6638952168394,
+            "width": 1988.5333632121453,
+            "height": 293.0333285500238
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "BG",
+            "label": "Biological Growth"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "SZ"
+            },
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1770996012000-dv2pws354",
+          "bbox": {
+            "x": 2202.427338569492,
+            "y": 1414.9053290911759,
+            "width": 673.4040423683704,
+            "height": 364.29067756585374
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 2,
+            "label": "Moderate"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1770996022459-penfqm7qo",
+          "bbox": {
+            "x": 3089.73619439605,
+            "y": 1525.7764048720878,
+            "width": 522.8784328977933,
+            "height": 316.7745022311772
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 2,
+            "label": "Moderate"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1770996037588-4av87yzo1",
+          "bbox": {
+            "x": 3810.6746397551283,
+            "y": 1652.4862057645585,
+            "width": 499.111231402439,
+            "height": 324.6938647869564
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 1,
+            "label": "Minor"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        }
+      ]
+    },
+    {
+      "image_id": "1bafd1b9-043d-41d5-b56a-87c51b2a1479",
+      "filename": "Pier 101-10.jpg",
+      "s3_key": "Pier 101/2026-02-12/Raw/Pier 101-10.jpg",
+      "asset_type": "pier",
+      "segment": null,
+      "elevation": null,
+      "side_face": null,
+      "structural_segments": [],
+      "annotation_status": "completed",
+      "num_annotations": 6,
+      "annotations": [
+        {
+          "annotation_id": "1771009117223-89a75em61",
+          "bbox": {
+            "x": 275.48084220780873,
+            "y": 2740.8183857328563,
+            "width": 440.7693475324941,
+            "height": 260.0538060226787
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 1,
+            "label": "Minor"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771009137366-72i1551d5",
+          "bbox": {
+            "x": 1141.277774860922,
+            "y": 2575.329600082061,
+            "width": 558.832565621555,
+            "height": 386.1404998518555
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 2,
+            "label": "Moderate"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771009147562-mqfirpgza",
+          "bbox": {
+            "x": 2125.1379256030964,
+            "y": 2512.286253167472,
+            "width": 519.4781595918678,
+            "height": 394.02091821617927
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 2,
+            "label": "Moderate"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771009155674-dal88g4fu",
+          "bbox": {
+            "x": 2967.3222146383973,
+            "y": 2622.6121102680027,
+            "width": 519.4781595918678,
+            "height": 283.695061115649
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 2,
+            "label": "Moderate"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771009166555-xkx3ixkia",
+          "bbox": {
+            "x": 3762.281216438074,
+            "y": 2669.8946204539443,
+            "width": 637.5413776809294,
+            "height": 299.4558978442961
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 1,
+            "label": "Minor"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771009178452-18e96sx90",
+          "bbox": {
+            "x": 928.7639823006123,
+            "y": 2969.3505182982403,
+            "width": 2038.5773069961638,
+            "height": 220.65171454266795
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "BG",
+            "label": "Biological Growth"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            },
+            {
+              "code": "SZ"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        }
+      ]
+    },
+    {
+      "image_id": "0e41018b-0418-43f0-8f06-70aedbaaa9d3",
+      "filename": "Pier 101-11.jpg",
+      "s3_key": "Pier 101/2026-02-12/Raw/Pier 101-11.jpg",
+      "asset_type": "pier",
+      "segment": null,
+      "elevation": null,
+      "side_face": null,
+      "structural_segments": [],
+      "annotation_status": "completed",
+      "num_annotations": 3,
+      "annotations": [
+        {
+          "annotation_id": "1771009199206-47p44yco6",
+          "bbox": {
+            "x": 338.4478918553079,
+            "y": 2528.0470898961194,
+            "width": 637.5413776809289,
+            "height": 378.2600814875322
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 2,
+            "label": "Moderate"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771009213094-q35ap6plx",
+          "bbox": {
+            "x": 2077.9126383674716,
+            "y": 2575.329600082061,
+            "width": 283.35172341374675,
+            "height": 417.66217330915003
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 1,
+            "label": "Minor"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771009221714-kfp8s9nuo",
+          "bbox": {
+            "x": 3108.9980763452704,
+            "y": 2023.7003145794095,
+            "width": 920.8931010946749,
+            "height": 394.02091821617927
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 1,
+            "label": "Minor"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        }
+      ]
+    },
+    {
+      "image_id": "4f564db2-6863-482d-86d1-75b28a2de7a5",
+      "filename": "Pier 101-12.jpg",
+      "s3_key": "Pier 101/2026-02-12/Raw/Pier 101-12.jpg",
+      "asset_type": "pier",
+      "segment": null,
+      "elevation": null,
+      "side_face": null,
+      "structural_segments": [],
+      "annotation_status": "completed",
+      "num_annotations": 6,
+      "annotations": [
+        {
+          "annotation_id": "1771009240532-ymb0hgwz7",
+          "bbox": {
+            "x": 558.7131288809488,
+            "y": 896.3208057813786,
+            "width": 630.8051455107487,
+            "height": 336.8370629533642
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "BG",
+            "label": "Biological Growth"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            },
+            {
+              "code": "SZ"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771009254040-tpo9vu56g",
+          "bbox": {
+            "x": 919.1732120299481,
+            "y": 66.25804350344606,
+            "width": 396.5060914638993,
+            "height": 354.8819056115798
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771009263155-7brdwt5gc",
+          "bbox": {
+            "x": 1628.0780422229802,
+            "y": 66.25804350344606,
+            "width": 444.56743588376565,
+            "height": 258.64274476776166
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771009272238-mbzonu4wd",
+          "bbox": {
+            "x": 1271.5145999008541,
+            "y": 673.7677463300489,
+            "width": 236.0846676481131,
+            "height": 392.74992502901995
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "AP"
+            }
+          ],
+          "notes": "Ladder",
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771009286161-t37kupcdk",
+          "bbox": {
+            "x": 2256.4467468837724,
+            "y": 632.7615023121723,
+            "width": 188.02332322824645,
+            "height": 422.82466279271296
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "AP"
+            }
+          ],
+          "notes": "Ladder",
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771009296500-u3o96fu9m",
+          "bbox": {
+            "x": 2445.1208973607118,
+            "y": 78.28793860892326,
+            "width": 360.46008314899916,
+            "height": 330.8221154006254
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        }
+      ]
+    },
+    {
+      "image_id": "a7567689-0986-4cd4-aacd-43424f0cc7a4",
+      "filename": "Pier 101-13.jpg",
+      "s3_key": "Pier 101/2026-02-12/Raw/Pier 101-13.jpg",
+      "asset_type": "pier",
+      "segment": null,
+      "elevation": null,
+      "side_face": null,
+      "structural_segments": [],
+      "annotation_status": "completed",
+      "num_annotations": 6,
+      "annotations": [
+        {
+          "annotation_id": "1771009318258-vx05wkewc",
+          "bbox": {
+            "x": 1315.6793034938473,
+            "y": 1028.6496519416285,
+            "width": 246.3143901518163,
+            "height": 487.2107517718302
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": "Ladder",
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771009443101-cue6yc1xe",
+          "bbox": {
+            "x": 1742.223735220163,
+            "y": 1221.1279736292652,
+            "width": 444.567435883766,
+            "height": 276.68758742597726
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "BG",
+            "label": "Biological Growth"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            },
+            {
+              "code": "SZ"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771009453720-a6cmucnwh",
+          "bbox": {
+            "x": 2276.9061918911784,
+            "y": 986.5450190724579,
+            "width": 192.24537767946674,
+            "height": 499.2406468773077
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "AP"
+            }
+          ],
+          "notes": "Ladder",
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771009471988-8fm8n5zcw",
+          "bbox": {
+            "x": 1021.3035689221647,
+            "y": 475.2744770896737,
+            "width": 318.40640678161606,
+            "height": 409.01643358622766
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771009483058-hhstwitqh",
+          "bbox": {
+            "x": 1682.1470546953294,
+            "y": 469.25952953693496,
+            "width": 420.55132293508433,
+            "height": 264.65769258124146
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771009491736-oblnrwh6a",
+          "bbox": {
+            "x": 2517.212913990512,
+            "y": 523.3940575115829,
+            "width": 300.3834026241659,
+            "height": 318.79222029514773
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        }
+      ]
+    },
+    {
+      "image_id": "c8009c9e-c0e1-471a-bc36-456296dab5c3",
+      "filename": "Pier 101-14.jpg",
+      "s3_key": "Pier 101/2026-02-12/Raw/Pier 101-14.jpg",
+      "asset_type": "pier",
+      "segment": null,
+      "elevation": null,
+      "side_face": null,
+      "structural_segments": [],
+      "annotation_status": "completed",
+      "num_annotations": 6,
+      "annotations": [
+        {
+          "annotation_id": "1771009507403-dit16uav7",
+          "bbox": {
+            "x": 440.76934753249407,
+            "y": 2102.504498222646,
+            "width": 1007.4918690183657,
+            "height": 338.8579900075205
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "BG",
+            "label": "Biological Growth"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            },
+            {
+              "code": "SZ"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771009519848-0zolw6j4x",
+          "bbox": {
+            "x": 1070.4398440074854,
+            "y": 1653.3206514562014,
+            "width": 346.3187730612453,
+            "height": 323.0971529372669
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 2,
+            "label": "Moderate"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771009530376-5cmr2css4",
+          "bbox": {
+            "x": 1983.462063896223,
+            "y": 1495.7122841697294,
+            "width": 629.6704964749916,
+            "height": 204.89087747241294
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771009539893-lg0cyq5wo",
+          "bbox": {
+            "x": 2046.4291135437225,
+            "y": 2070.9828247653513,
+            "width": 299.09348582562063,
+            "height": 378.26008148753266
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "AP"
+            }
+          ],
+          "notes": "Ladder",
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771009555795-26q8lf15m",
+          "bbox": {
+            "x": 2538.681985899966,
+            "y": 2083.1024064010285,
+            "width": 314.85432289587476,
+            "height": 394.0209185577868
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "AP"
+            }
+          ],
+          "notes": "Ladder",
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771009563868-bmxzu73jt",
+          "bbox": {
+            "x": 2754.808422078088,
+            "y": 1653.3206514562014,
+            "width": 456.5111099443686,
+            "height": 283.695061115649
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        }
+      ]
+    },
+    {
+      "image_id": "2f2b3dff-8061-4dfb-9818-382fdc24ba8c",
+      "filename": "Pier 101-15.jpg",
+      "s3_key": "Pier 101/2026-02-12/Raw/Pier 101-15.jpg",
+      "asset_type": "pier",
+      "segment": null,
+      "elevation": null,
+      "side_face": null,
+      "structural_segments": [],
+      "annotation_status": "completed",
+      "num_annotations": 4,
+      "annotations": [
+        {
+          "annotation_id": "1771009594177-vglx3f6dd",
+          "bbox": {
+            "x": 2935.8386898146478,
+            "y": 731.3117028303413,
+            "width": 661.154021298741,
+            "height": 267.934224387002
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 1,
+            "label": "Minor"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771009607704-ucuwcvzw2",
+          "bbox": {
+            "x": 3722.926810408387,
+            "y": 1637.5598147275539,
+            "width": 1408.8877358627935,
+            "height": 394.02091821617927
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771009614045-rbo40gkau",
+          "bbox": {
+            "x": 1101.923368831235,
+            "y": 1842.4506921999675,
+            "width": 857.9260514471761,
+            "height": 315.21673457294315
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "BG",
+            "label": "Biological Growth"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            },
+            {
+              "code": "SZ"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771009621735-6wicoykvz",
+          "bbox": {
+            "x": 173.15938653062264,
+            "y": 1542.994794355671,
+            "width": 377.80229788499486,
+            "height": 394.02091821617927
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        }
+      ]
+    },
+    {
+      "image_id": "b135c5e7-4e02-40ff-b642-70182b1ca81c",
+      "filename": "Pier 101-16.jpg",
+      "s3_key": "Pier 101/2026-02-12/Raw/Pier 101-16.jpg",
+      "asset_type": "pier",
+      "segment": null,
+      "elevation": null,
+      "side_face": null,
+      "structural_segments": [],
+      "annotation_status": "completed",
+      "num_annotations": 3,
+      "annotations": [
+        {
+          "annotation_id": "1771009635232-ybc3fyqye",
+          "bbox": {
+            "x": 619.8289090490546,
+            "y": 310.3749019675931,
+            "width": 685.3877359677047,
+            "height": 1068.1135792408913
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771009646092-44vf5r127",
+          "bbox": {
+            "x": 2127.681928178005,
+            "y": 650.500455133687,
+            "width": 947.623043642304,
+            "height": 560.9088069756635
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 2,
+            "label": "Moderate"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771009653590-w0f4ds0fx",
+          "bbox": {
+            "x": 673.4679492552228,
+            "y": 1784.2522990206664,
+            "width": 1186.018777891941,
+            "height": 405.76381781218214
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "BG",
+            "label": "Biological Growth"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            },
+            {
+              "code": "SZ"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        }
+      ]
+    },
+    {
+      "image_id": "74b58ff4-f22b-445b-aa3c-605e7e73c778",
+      "filename": "Pier 101-17.jpg",
+      "s3_key": "Pier 101/2026-02-12/Raw/Pier 101-17.jpg",
+      "asset_type": "pier",
+      "segment": null,
+      "elevation": null,
+      "side_face": null,
+      "structural_segments": [],
+      "annotation_status": "completed",
+      "num_annotations": 5,
+      "annotations": [
+        {
+          "annotation_id": "1771009666650-7yr6glub7",
+          "bbox": {
+            "x": 318.40640678161606,
+            "y": 884.2909106759014,
+            "width": 522.6671205660489,
+            "height": 439.09117134992044
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771009678690-lgu74kmi2",
+          "bbox": {
+            "x": 1299.6332951789475,
+            "y": 916.3208057813794,
+            "width": 534.6970159322673,
+            "height": 451.12106671613833
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771009681722-1qpttusey",
+          "bbox": {
+            "x": 2056.599469791846,
+            "y": 1022.6347043888901,
+            "width": 899.2314490749548,
+            "height": 342.85201128832546
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 2,
+            "label": "Moderate"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771009696515-cg5c8zdfs",
+          "bbox": {
+            "x": 3442.393794072944,
+            "y": 980.5300715197199,
+            "width": 456.5827719887313,
+            "height": 276.68758742597726
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 1,
+            "label": "Minor"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771009704991-iee978nop",
+          "bbox": {
+            "x": 1411.8019923335805,
+            "y": 1461.7258757388108,
+            "width": 1297.6562993363973,
+            "height": 354.8819056115798
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "BG",
+            "label": "Biological Growth"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "SZ"
+            },
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        }
+      ]
+    },
+    {
+      "image_id": "6bda95cb-afff-4117-8751-22ffdb00020e",
+      "filename": "Pier 101-18.jpg",
+      "s3_key": "Pier 101/2026-02-12/Raw/Pier 101-18.jpg",
+      "asset_type": "pier",
+      "segment": null,
+      "elevation": null,
+      "side_face": null,
+      "structural_segments": [],
+      "annotation_status": "completed",
+      "num_annotations": 6,
+      "annotations": [
+        {
+          "annotation_id": "1771009719868-69ethhyzf",
+          "bbox": {
+            "x": 787.0881205937394,
+            "y": 2086.743661493999,
+            "width": 669.0249025046785,
+            "height": 338.8579896659144
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771009726743-t4h0aa4lz",
+          "bbox": {
+            "x": 1826.0444397774752,
+            "y": 1992.1786411221153,
+            "width": 338.4478918553081,
+            "height": 464.9446834950916
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771009734249-sf61rgryq",
+          "bbox": {
+            "x": 2278.9429061040314,
+            "y": 1996.417804393468,
+            "width": 369.9695659958161,
+            "height": 496.46635763560033
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771009738912-s6731i94o",
+          "bbox": {
+            "x": 2751.195778460275,
+            "y": 2025.9738935291455,
+            "width": 304.97970873477584,
+            "height": 403.86692192693965
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 2,
+            "label": "Moderate"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771009749373-yi3r0vs2y",
+          "bbox": {
+            "x": 3609.1218299074517,
+            "y": 2090.432159033873,
+            "width": 601.8186899274336,
+            "height": 284.245728213555
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 2,
+            "label": "Moderate"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771009798065-fgp6pa55k",
+          "bbox": {
+            "x": 3227.061294434331,
+            "y": 2401.9603960669415,
+            "width": 1101.9233688312352,
+            "height": 236.41255092970792
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "BG",
+            "label": "Biological Growth"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            },
+            {
+              "code": "SZ"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        }
+      ]
+    },
+    {
+      "image_id": "6fdcd01a-daf6-4743-a3fd-602f8e288cb9",
+      "filename": "Pier 101-19.jpg",
+      "s3_key": "Pier 101/2026-02-12/Raw/Pier 101-19.jpg",
+      "asset_type": "pier",
+      "segment": null,
+      "elevation": null,
+      "side_face": null,
+      "structural_segments": [],
+      "annotation_status": "completed",
+      "num_annotations": 4,
+      "annotations": [
+        {
+          "annotation_id": "1771009863102-z2fqgm1m9",
+          "bbox": {
+            "x": 1600.6105675718193,
+            "y": 1751.1015486087335,
+            "width": 345.8717464585614,
+            "height": 265.61220833237644
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771009872244-w6ieymlqn",
+          "bbox": {
+            "x": 1218.44710838292,
+            "y": 1690.6130007349554,
+            "width": 329.7740365348973,
+            "height": 249.5144984087128
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771009875132-pquykyobz",
+          "bbox": {
+            "x": 2143.423064517389,
+            "y": 1940.1274991436676,
+            "width": 361.96945638222553,
+            "height": 281.70991825604057
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 4,
+            "label": "Severe"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771010148749-j6iehgjh3",
+          "bbox": {
+            "x": 3048.3990206518565,
+            "y": 1565.977888499044,
+            "width": 297.600959799786,
+            "height": 418.54044894364745
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        }
+      ]
+    },
+    {
+      "image_id": "4cf8dcc8-d0ee-4ddc-891b-e0978e4405ff",
+      "filename": "Pier 101-20.jpg",
+      "s3_key": "Pier 101/2026-02-12/Raw/Pier 101-20.jpg",
+      "asset_type": "pier",
+      "segment": null,
+      "elevation": null,
+      "side_face": null,
+      "structural_segments": [],
+      "annotation_status": "in_progress",
+      "num_annotations": 4,
+      "annotations": [
+        {
+          "annotation_id": "1771010275827-6erjsk4n6",
+          "bbox": {
+            "x": 1327.1394153233678,
+            "y": 1074.9977464689953,
+            "width": 418.27234066867135,
+            "height": 434.6381592162197
+          },
+          "shape_type": "rect",
+          "damage_type": null,
+          "severity": null,
+          "structural_segments": [],
+          "notes": "Minor permanent deformation on the fender pile.",
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771010296936-8ls6ssng4",
+          "bbox": {
+            "x": 68.25961510266791,
+            "y": 1078.9000368942402,
+            "width": 386.0769208213433,
+            "height": 402.44273936889147
+          },
+          "shape_type": "rect",
+          "damage_type": null,
+          "severity": null,
+          "structural_segments": [],
+          "notes": "Minor permanent deformation on the fender pile.",
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771010306604-zyvgtkn3f",
+          "bbox": {
+            "x": 3293.6105577976405,
+            "y": 1111.0954560437513,
+            "width": 402.1746307450072,
+            "height": 418.5404492925556
+          },
+          "shape_type": "rect",
+          "damage_type": null,
+          "severity": null,
+          "structural_segments": [],
+          "notes": "Minor permanent deformation on the fender pile.",
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771010308225-a7i38xp0q",
+          "bbox": {
+            "x": 4508.144204548115,
+            "y": 1199.6328587049072,
+            "width": 402.1746307450072,
+            "height": 418.5404492925556
+          },
+          "shape_type": "rect",
+          "damage_type": null,
+          "severity": null,
+          "structural_segments": [],
+          "notes": "Minor permanent deformation on the fender pile.",
+          "defect_id": null
+        }
+      ]
+    },
+    {
+      "image_id": "0b14d3a3-0d6b-481a-a089-b1294f8691de",
+      "filename": "Pier 101-21.jpg",
+      "s3_key": "Pier 101/2026-02-12/Raw/Pier 101-21.jpg",
+      "asset_type": "pier",
+      "segment": null,
+      "elevation": null,
+      "side_face": null,
+      "structural_segments": [],
+      "annotation_status": "not_started",
+      "num_annotations": 0,
+      "annotations": []
+    },
+    {
+      "image_id": "9d2a5d58-9305-4a30-935f-3b948703d90e",
+      "filename": "Pier 101-22.jpg",
+      "s3_key": "Pier 101/2026-02-12/Raw/Pier 101-22.jpg",
+      "asset_type": "pier",
+      "segment": null,
+      "elevation": null,
+      "side_face": null,
+      "structural_segments": [],
+      "annotation_status": "completed",
+      "num_annotations": 2,
+      "annotations": [
+        {
+          "annotation_id": "1771010327405-aycwn125d",
+          "bbox": {
+            "x": 2892.952774332287,
+            "y": 217.99207689784282,
+            "width": 816.1172037063716,
+            "height": 1578.5159963209383
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 2,
+            "label": "Moderate"
+          },
+          "structural_segments": [
+            {
+              "code": "PS"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771010338301-suhkjklhp",
+          "bbox": {
+            "x": 2916.8184074072224,
+            "y": 311.43910532161544,
+            "width": 823.8484698562424,
+            "height": 1586.2472624708091
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CF",
+            "label": "Coating Failure"
+          },
+          "severity": {
+            "level": 4,
+            "label": "Severe"
+          },
+          "structural_segments": [
+            {
+              "code": "PS"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        }
+      ]
+    },
+    {
+      "image_id": "fe89113b-ba7b-4f01-8ea4-2332b4430e60",
+      "filename": "Pier 101-23.jpg",
+      "s3_key": "Pier 101/2026-02-12/Raw/Pier 101-23.jpg",
+      "asset_type": "pier",
+      "segment": null,
+      "elevation": null,
+      "side_face": null,
+      "structural_segments": [],
+      "annotation_status": "completed",
+      "num_annotations": 2,
+      "annotations": [
+        {
+          "annotation_id": "1771010355833-xa7tlsc4p",
+          "bbox": {
+            "x": 1743.5464179682137,
+            "y": 483.9185110487061,
+            "width": 663.0387786639685,
+            "height": 767.9389146530823
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 2,
+            "label": "Moderate"
+          },
+          "structural_segments": [
+            {
+              "code": "PS"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771010362920-pi1dgpwew",
+          "bbox": {
+            "x": 1744.063213833847,
+            "y": 605.231172547414,
+            "width": 678.6253419714624,
+            "height": 783.5254779605758
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CF",
+            "label": "Coating Failure"
+          },
+          "severity": {
+            "level": 4,
+            "label": "Severe"
+          },
+          "structural_segments": [
+            {
+              "code": "PS"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        }
+      ]
+    },
+    {
+      "image_id": "6c07f0fa-76ea-43d5-96ad-5af719a20a09",
+      "filename": "Pier 101-24.jpg",
+      "s3_key": "Pier 101/2026-02-12/Raw/Pier 101-24.jpg",
+      "asset_type": "dock",
+      "segment": null,
+      "elevation": null,
+      "side_face": null,
+      "structural_segments": [],
+      "annotation_status": "completed",
+      "num_annotations": 4,
+      "annotations": [
+        {
+          "annotation_id": "1771010373815-uuzms2wwl",
+          "bbox": {
+            "x": 2042.9903726796083,
+            "y": 970.3626342330843,
+            "width": 410.2067283726774,
+            "height": 378.2961750067577
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 2,
+            "label": "Moderate"
+          },
+          "structural_segments": [
+            {
+              "code": "PS"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771010895493-4ohiaw0s7",
+          "bbox": {
+            "x": 2057.8895974858096,
+            "y": 1036.2696109772703,
+            "width": 440.81137953546795,
+            "height": 408.90082616954857
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CF",
+            "label": "Coating Failure"
+          },
+          "severity": {
+            "level": 4,
+            "label": "Severe"
+          },
+          "structural_segments": [
+            {
+              "code": "PS"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771010906945-boc9gyxjx",
+          "bbox": {
+            "x": 3976.3174707763046,
+            "y": 862.7794424035931,
+            "width": 432.7681103516906,
+            "height": 304.2657139336369
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 1,
+            "label": "Minor"
+          },
+          "structural_segments": [
+            {
+              "code": "PS"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771010913347-hii0w41mh",
+          "bbox": {
+            "x": 3975.9143700011114,
+            "y": 918.4848687601822,
+            "width": 421.79226876648767,
+            "height": 324.1650816195059
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CF",
+            "label": "Coating Failure"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "PS"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        }
+      ]
+    },
+    {
+      "image_id": "4c7311f9-e49e-49bd-9a49-387f33eb6bd0",
+      "filename": "Pier 101-26.jpg",
+      "s3_key": "Pier 101/2026-02-12/Raw/Pier 101-26.jpg",
+      "asset_type": "pier",
+      "segment": null,
+      "elevation": null,
+      "side_face": null,
+      "structural_segments": [],
+      "annotation_status": "completed",
+      "num_annotations": 4,
+      "annotations": [
+        {
+          "annotation_id": "1771011026492-7kq6yev3l",
+          "bbox": {
+            "x": 1994.7307575769407,
+            "y": 197.6725746448125,
+            "width": 756.0673032751306,
+            "height": 273.6610627708461
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "DE",
+            "label": "Decay"
+          },
+          "severity": {
+            "level": 1,
+            "label": "Minor"
+          },
+          "structural_segments": [
+            {
+              "code": "AP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771011038915-94rbdmkqu",
+          "bbox": {
+            "x": 1311.0528769558118,
+            "y": 1984.5183374426913,
+            "width": 450.4230742915671,
+            "height": 555.3709803290702
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "DE",
+            "label": "Decay"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "AP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771011050318-i5l9a2fa7",
+          "bbox": {
+            "x": 2935.7932520789645,
+            "y": 2137.44657840287,
+            "width": 458.4663434753453,
+            "height": 434.638158518403
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "DE",
+            "label": "Decay"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "AP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771011060054-mdls3pm39",
+          "bbox": {
+            "x": 2815.1442143222953,
+            "y": 1115.2420204058853,
+            "width": 241.29807551333923,
+            "height": 209.27022447182372
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "DE",
+            "label": "Decay"
+          },
+          "severity": {
+            "level": 1,
+            "label": "Minor"
+          },
+          "structural_segments": [
+            {
+              "code": "AP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        }
+      ]
+    },
+    {
+      "image_id": "7dac9ab6-8cb8-46ff-8b6b-2e41626d4eac",
+      "filename": "Pier 101-27.jpg",
+      "s3_key": "Pier 101/2026-02-12/Raw/Pier 101-27.jpg",
+      "asset_type": "pier",
+      "segment": null,
+      "elevation": null,
+      "side_face": null,
+      "structural_segments": [],
+      "annotation_status": "completed",
+      "num_annotations": 1,
+      "annotations": [
+        {
+          "annotation_id": "1771011817633-cr5rn99n9",
+          "bbox": {
+            "x": 963.8619282429914,
+            "y": 686.6543845171199,
+            "width": 1559.3689794504446,
+            "height": 1535.8778293061644
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "DE",
+            "label": "Decay"
+          },
+          "severity": {
+            "level": 4,
+            "label": "Severe"
+          },
+          "structural_segments": [
+            {
+              "code": "AP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        }
+      ]
+    },
+    {
+      "image_id": "377eac95-4ec6-406c-8ba1-0edcaa269a04",
+      "filename": "Pier 101-28.jpg",
+      "s3_key": "Pier 101/2026-02-12/Raw/Pier 101-28.jpg",
+      "asset_type": "pier",
+      "segment": null,
+      "elevation": null,
+      "side_face": null,
+      "structural_segments": [],
+      "annotation_status": "completed",
+      "num_annotations": 1,
+      "annotations": [
+        {
+          "annotation_id": "1771011829158-ar41nykxy",
+          "bbox": {
+            "x": 1062.0898954524682,
+            "y": 791.0940769099388,
+            "width": 1479.558756092745,
+            "height": 1689.4656122367815
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "DE",
+            "label": "Decay"
+          },
+          "severity": {
+            "level": 4,
+            "label": "Severe"
+          },
+          "structural_segments": [
+            {
+              "code": "AP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        }
+      ]
+    },
+    {
+      "image_id": "35229bf6-a470-4499-8d49-76ce0db1effd",
+      "filename": "Pier 101-29.jpg",
+      "s3_key": "Pier 101/2026-02-12/Raw/Pier 101-29.jpg",
+      "asset_type": "pier",
+      "segment": null,
+      "elevation": null,
+      "side_face": null,
+      "structural_segments": [],
+      "annotation_status": "completed",
+      "num_annotations": 1,
+      "annotations": [
+        {
+          "annotation_id": "1771011846640-xea3s9xyp",
+          "bbox": {
+            "x": 1169.361963519577,
+            "y": 285.0332968188091,
+            "width": 1394.7077585728289,
+            "height": 944.6717352499824
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "BG",
+            "label": "Biological Growth"
+          },
+          "severity": {
+            "level": 2,
+            "label": "Moderate"
+          },
+          "structural_segments": [
+            {
+              "code": "PS"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        }
+      ]
+    },
+    {
+      "image_id": "857d0141-8873-4eaa-830e-c938ebf5fafa",
+      "filename": "Pier 101-30.jpg",
+      "s3_key": "Pier 101/2026-02-12/Raw/Pier 101-30.jpg",
+      "asset_type": "pier",
+      "segment": null,
+      "elevation": null,
+      "side_face": null,
+      "structural_segments": [],
+      "annotation_status": "completed",
+      "num_annotations": 4,
+      "annotations": [
+        {
+          "annotation_id": "1771011858556-ecxq9iihh",
+          "bbox": {
+            "x": 791.9629856264069,
+            "y": 47.729207525755335,
+            "width": 736.7097540710763,
+            "height": 430.0457922057261
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "PS"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771011868676-0tjh47og7",
+          "bbox": {
+            "x": 1068.2291434030606,
+            "y": 827.9551448132869,
+            "width": 435.8866044920534,
+            "height": 374.754190350704
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 2,
+            "label": "Moderate"
+          },
+          "structural_segments": [
+            {
+              "code": "PS"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771011876621-upweot2z7",
+          "bbox": {
+            "x": 552.5323155533072,
+            "y": 1362.440629411832,
+            "width": 927.0264405394375,
+            "height": 460.7633487918495
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "BG",
+            "label": "Biological Growth"
+          },
+          "severity": {
+            "level": 2,
+            "label": "Moderate"
+          },
+          "structural_segments": [
+            {
+              "code": "PS"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771011886959-rzdk00bn9",
+          "bbox": {
+            "x": 2443.4206843357365,
+            "y": 791.0940769099388,
+            "width": 663.0387786639685,
+            "height": 528.3419732813204
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 2,
+            "label": "Moderate"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        }
+      ]
+    },
+    {
+      "image_id": "a3166278-4a4d-4aad-86c2-89ee835437f8",
+      "filename": "Pier 101-31.jpg",
+      "s3_key": "Pier 101/2026-02-12/Raw/Pier 101-31.jpg",
+      "asset_type": "pier",
+      "segment": null,
+      "elevation": null,
+      "side_face": null,
+      "structural_segments": [],
+      "annotation_status": "completed",
+      "num_annotations": 4,
+      "annotations": [
+        {
+          "annotation_id": "1771011906454-g9uxo9go3",
+          "bbox": {
+            "x": 924.9759561344684,
+            "y": 1815.4923869077566,
+            "width": 554.985573680681,
+            "height": 313.9053367077354
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 4,
+            "label": "Severe"
+          },
+          "structural_segments": [
+            {
+              "code": "PS"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771011915935-b3ane3t81",
+          "bbox": {
+            "x": 2195.8124871713903,
+            "y": 1244.0236970039305,
+            "width": 402.163459188899,
+            "height": 362.1984654320029
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "PS"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771011925350-bt1x57ko6",
+          "bbox": {
+            "x": 2051.0336418633865,
+            "y": 1726.9549842466001,
+            "width": 538.8990353131254,
+            "height": 378.2961750067584
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "BG",
+            "label": "Biological Growth"
+          },
+          "severity": {
+            "level": 2,
+            "label": "Moderate"
+          },
+          "structural_segments": [
+            {
+              "code": "PS"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771011939123-w5f2k205i",
+          "bbox": {
+            "x": 2992.0961363654114,
+            "y": 1754.2106271445807,
+            "width": 397.2236832862759,
+            "height": 310.7962592186135
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 2,
+            "label": "Moderate"
+          },
+          "structural_segments": [
+            {
+              "code": "BP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        }
+      ]
+    },
+    {
+      "image_id": "2e98c357-738b-41c0-b8c8-5381b58566e9",
+      "filename": "Pier 101-32.jpg",
+      "s3_key": "Pier 101/2026-02-12/Raw/Pier 101-32.jpg",
+      "asset_type": "pier",
+      "segment": null,
+      "elevation": null,
+      "side_face": null,
+      "structural_segments": [],
+      "annotation_status": "completed",
+      "num_annotations": 1,
+      "annotations": [
+        {
+          "annotation_id": "1771011960759-yweg1lgbt",
+          "bbox": {
+            "x": 1798.7996495235445,
+            "y": 84.59027542910333,
+            "width": 411.3296126896843,
+            "height": 319.46258849568216
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "PS"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        }
+      ]
+    },
+    {
+      "image_id": "72ad4047-88ad-4cf4-b6ef-93f887308f29",
+      "filename": "Pier 101-33.jpg",
+      "s3_key": "Pier 101/2026-02-12/Raw/Pier 101-33.jpg",
+      "asset_type": "pier",
+      "segment": null,
+      "elevation": null,
+      "side_face": null,
+      "structural_segments": [],
+      "annotation_status": "completed",
+      "num_annotations": 5,
+      "annotations": [
+        {
+          "annotation_id": "1771011973569-8i8o3acz9",
+          "bbox": {
+            "x": 1053.6682630749162,
+            "y": 624.2618783758375,
+            "width": 305.6442289835632,
+            "height": 330.00304628249114
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "SP",
+            "label": "Spalling"
+          },
+          "severity": {
+            "level": 1,
+            "label": "Minor"
+          },
+          "structural_segments": [
+            {
+              "code": "CP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771011983936-5eyh01s73",
+          "bbox": {
+            "x": 1068.5674878811178,
+            "y": 710.5719558952172,
+            "width": 315.8457793711602,
+            "height": 340.20459667008816
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "BG",
+            "label": "Biological Growth"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "CP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771011992520-9zxce1qhy",
+          "bbox": {
+            "x": 2107.3365261498325,
+            "y": 889.8740863593058,
+            "width": 418.24999755645536,
+            "height": 571.468689903826
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "PS"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771012002733-rtdd46kwa",
+          "bbox": {
+            "x": 4262.932667402332,
+            "y": 1622.3198720106884,
+            "width": 474.5528818429007,
+            "height": 273.6610627708468
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "BG",
+            "label": "Biological Growth"
+          },
+          "severity": {
+            "level": 2,
+            "label": "Moderate"
+          },
+          "structural_segments": [
+            {
+              "code": "CP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771012010991-wcs9bxi49",
+          "bbox": {
+            "x": 4560.533627202118,
+            "y": 1147.4374395553964,
+            "width": 273.47115224845237,
+            "height": 241.4656436213348
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "SP",
+            "label": "Spalling"
+          },
+          "severity": {
+            "level": 1,
+            "label": "Minor"
+          },
+          "structural_segments": [
+            {
+              "code": "CP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        }
+      ]
+    },
+    {
+      "image_id": "5ea0aeef-2508-41cf-9bc3-240a7a5d9ec4",
+      "filename": "Pier 101-34.jpg",
+      "s3_key": "Pier 101/2026-02-12/Raw/Pier 101-34.jpg",
+      "asset_type": "pier",
+      "segment": null,
+      "elevation": null,
+      "side_face": null,
+      "structural_segments": [],
+      "annotation_status": "completed",
+      "num_annotations": 2,
+      "annotations": [
+        {
+          "annotation_id": "1771012028195-m3el5yx2w",
+          "bbox": {
+            "x": 1938.4278732904947,
+            "y": 2338.667948087316,
+            "width": 369.9903824537872,
+            "height": 273.66106277084634
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "SP",
+            "label": "Spalling"
+          },
+          "severity": {
+            "level": 1,
+            "label": "Minor"
+          },
+          "structural_segments": [
+            {
+              "code": "CP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771012035993-l3zmvh9dh",
+          "bbox": {
+            "x": 1914.2980657391608,
+            "y": 2861.8435092668747,
+            "width": 554.9855736806813,
+            "height": 330.00304628249137
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "BG",
+            "label": "Biological Growth"
+          },
+          "severity": {
+            "level": 2,
+            "label": "Moderate"
+          },
+          "structural_segments": [
+            {
+              "code": "CP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        }
+      ]
+    },
+    {
+      "image_id": "dea5cb77-c4a5-4fcf-8869-1c361cda5034",
+      "filename": "Pier 101-35.jpg",
+      "s3_key": "Pier 101/2026-02-12/Raw/Pier 101-35.jpg",
+      "asset_type": "pier",
+      "segment": null,
+      "elevation": null,
+      "side_face": null,
+      "structural_segments": [],
+      "annotation_status": "completed",
+      "num_annotations": 1,
+      "annotations": [
+        {
+          "annotation_id": "1771012047381-ewj7xh71i",
+          "bbox": {
+            "x": 633.4043969064376,
+            "y": 1016.3920595929892,
+            "width": 1437.3407468261466,
+            "height": 1072.6595187354637
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 4,
+            "label": "Severe"
+          },
+          "structural_segments": [
+            {
+              "code": "AP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        }
+      ]
+    },
+    {
+      "image_id": "c2813c95-f314-4140-851d-f5d5afc9dcc6",
+      "filename": "Pier 101-36.jpg",
+      "s3_key": "Pier 101/2026-02-12/Raw/Pier 101-36.jpg",
+      "asset_type": "pier",
+      "segment": null,
+      "elevation": null,
+      "side_face": null,
+      "structural_segments": [],
+      "annotation_status": "completed",
+      "num_annotations": 1,
+      "annotations": [
+        {
+          "annotation_id": "1771012066072-na22z6j4y",
+          "bbox": {
+            "x": 1017.1012911862987,
+            "y": 2046.3889838332925,
+            "width": 1345.9843434261797,
+            "height": 932.4824225370792
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 4,
+            "label": "Severe"
+          },
+          "structural_segments": [
+            {
+              "code": "AP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        }
+      ]
+    },
+    {
+      "image_id": "231e26b9-3db2-45d1-9bad-dd14b05cbc38",
+      "filename": "Pier 101-37.jpg",
+      "s3_key": "Pier 101/2026-02-12/Raw/Pier 101-37.jpg",
+      "asset_type": "pier",
+      "segment": null,
+      "elevation": null,
+      "side_face": null,
+      "structural_segments": [],
+      "annotation_status": "completed",
+      "num_annotations": 5,
+      "annotations": [
+        {
+          "annotation_id": "1771012085244-5zug9qj65",
+          "bbox": {
+            "x": 2296.07873352152,
+            "y": 773.7330067305712,
+            "width": 651.8212200681406,
+            "height": 349.1106821084412
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 1,
+            "label": "Minor"
+          },
+          "structural_segments": [
+            {
+              "code": "DU"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771012099791-9c55cevz3",
+          "bbox": {
+            "x": 3253.8014138139197,
+            "y": 1755.6253537142102,
+            "width": 356.07638113435337,
+            "height": 688.0732675291622
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "BG",
+            "label": "Biological Growth"
+          },
+          "severity": {
+            "level": 2,
+            "label": "Moderate"
+          },
+          "structural_segments": [
+            {
+              "code": "CP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771012105591-rtg3v76xv",
+          "bbox": {
+            "x": 2179.4330224602672,
+            "y": 2400.6940420227997,
+            "width": 871.7732089841068,
+            "height": 331.7496111301312
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "BG",
+            "label": "Biological Growth"
+          },
+          "severity": {
+            "level": 1,
+            "label": "Minor"
+          },
+          "structural_segments": [
+            {
+              "code": "CP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771012111482-knbe0f0ak",
+          "bbox": {
+            "x": 1025.2544077489144,
+            "y": 1780.1993989831092,
+            "width": 1098.925383156022,
+            "height": 282.601520592334
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "BG",
+            "label": "Biological Growth"
+          },
+          "severity": {
+            "level": 1,
+            "label": "Minor"
+          },
+          "structural_segments": [
+            {
+              "code": "CP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771012118338-7l5yypb7s",
+          "bbox": {
+            "x": 128.92420696243835,
+            "y": 2118.0925214304652,
+            "width": 595.5070512074533,
+            "height": 595.9205977707919
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "BG",
+            "label": "Biological Growth"
+          },
+          "severity": {
+            "level": 1,
+            "label": "Minor"
+          },
+          "structural_segments": [
+            {
+              "code": "CP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        }
+      ]
+    },
+    {
+      "image_id": "4a283e4f-6b2b-4ce4-8735-d0feda23e251",
+      "filename": "Pier 101-38.jpg",
+      "s3_key": "Pier 101/2026-02-12/Raw/Pier 101-38.jpg",
+      "asset_type": "pier",
+      "segment": null,
+      "elevation": null,
+      "side_face": null,
+      "structural_segments": [],
+      "annotation_status": "completed",
+      "num_annotations": 6,
+      "annotations": [
+        {
+          "annotation_id": "1771012135073-ql8l2wrx2",
+          "bbox": {
+            "x": 30.69623975296151,
+            "y": 1767.9123763486598,
+            "width": 552.5323155533071,
+            "height": 350.18014508180556
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "BG",
+            "label": "Biological Growth"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "CP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771012145016-2kt70tsyz",
+          "bbox": {
+            "x": 294.6839016284305,
+            "y": 2615.7169381256626,
+            "width": 638.4817868615993,
+            "height": 344.03663376458076
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "BG",
+            "label": "Biological Growth"
+          },
+          "severity": {
+            "level": 1,
+            "label": "Minor"
+          },
+          "structural_segments": [
+            {
+              "code": "CP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771012152916-22wrfi0ac",
+          "bbox": {
+            "x": 1958.420096238944,
+            "y": 2578.855870222315,
+            "width": 939.3049364406222,
+            "height": 380.89770166792874
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "BG",
+            "label": "Biological Growth"
+          },
+          "severity": {
+            "level": 1,
+            "label": "Minor"
+          },
+          "structural_segments": [
+            {
+              "code": "CP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771012159522-z4pqgchk3",
+          "bbox": {
+            "x": 1657.5969466599213,
+            "y": 1411.5887199496292,
+            "width": 570.9500594050843,
+            "height": 503.7679280124223
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 1,
+            "label": "Minor"
+          },
+          "structural_segments": [
+            {
+              "code": "AP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771012168816-le2bgqiwv",
+          "bbox": {
+            "x": 3352.0293810233966,
+            "y": 1214.9963577984404,
+            "width": 534.1145717015304,
+            "height": 946.1007428525971
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 4,
+            "label": "Severe"
+          },
+          "structural_segments": [
+            {
+              "code": "AP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771012176106-2yxj76seb",
+          "bbox": {
+            "x": 3375.92602185027,
+            "y": 1293.445970201541,
+            "width": 541.9078533552773,
+            "height": 953.8940245063438
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "LO",
+            "label": "Loss of Section"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "AP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        }
+      ]
+    },
+    {
+      "image_id": "446f754e-e7da-446d-ba20-cafcabf74ac5",
+      "filename": "Pier 101-39.jpg",
+      "s3_key": "Pier 101/2026-02-12/Raw/Pier 101-39.jpg",
+      "asset_type": "pier",
+      "segment": null,
+      "elevation": null,
+      "side_face": null,
+      "structural_segments": [],
+      "annotation_status": "completed",
+      "num_annotations": 2,
+      "annotations": [
+        {
+          "annotation_id": "1771012196533-y8dpht5i8",
+          "bbox": {
+            "x": 1903.166864683613,
+            "y": 778.8070542754893,
+            "width": 367.1321159519642,
+            "height": 492.6951402609111
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 4,
+            "label": "Severe"
+          },
+          "structural_segments": [
+            {
+              "code": "AP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771012211455-raap1y69i",
+          "bbox": {
+            "x": 1930.9601463373597,
+            "y": 841.6701033710967,
+            "width": 374.92539760571134,
+            "height": 500.48842191465775
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "LO",
+            "label": "Loss of Section"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "AP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        }
+      ]
+    },
+    {
+      "image_id": "eb06dc33-f688-42c0-948e-da8fb4177e5a",
+      "filename": "Pier 101-40.jpg",
+      "s3_key": "Pier 101/2026-02-12/Raw/Pier 101-40.jpg",
+      "asset_type": "pier",
+      "segment": null,
+      "elevation": null,
+      "side_face": null,
+      "structural_segments": [],
+      "annotation_status": "completed",
+      "num_annotations": 2,
+      "annotations": [
+        {
+          "annotation_id": "1771012326540-p4xvb2h2m",
+          "bbox": {
+            "x": 319.2408934307997,
+            "y": 96.87729806355271,
+            "width": 411.3296126896843,
+            "height": 608.207620405241
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 4,
+            "label": "Severe"
+          },
+          "structural_segments": [
+            {
+              "code": "AP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771012339942-3dbi3b1d0",
+          "bbox": {
+            "x": 343.13753425767317,
+            "y": 144.15378385166647,
+            "width": 442.50273930467125,
+            "height": 639.3807470202281
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "LO",
+            "label": "Loss of Section"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "AP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        }
+      ]
+    },
+    {
+      "image_id": "fe08f1bd-1795-4c36-93ca-915ffc406c5f",
+      "filename": "Pier 101-41.jpg",
+      "s3_key": "Pier 101/2026-02-12/Raw/Pier 101-41.jpg",
+      "asset_type": "pier",
+      "segment": null,
+      "elevation": null,
+      "side_face": null,
+      "structural_segments": [],
+      "annotation_status": "completed",
+      "num_annotations": 1,
+      "annotations": [
+        {
+          "annotation_id": "1771012672442-j2cfrexz3",
+          "bbox": {
+            "x": 1608.4829630551833,
+            "y": 1141.2742219917448,
+            "width": 1283.1028216737907,
+            "height": 534.4854845985448
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "BG",
+            "label": "Biological Growth"
+          },
+          "severity": {
+            "level": 1,
+            "label": "Minor"
+          },
+          "structural_segments": [
+            {
+              "code": "CP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        }
+      ]
+    },
+    {
+      "image_id": "e57b15d8-4510-4618-a7b5-09090ce64a5b",
+      "filename": "Pier 101-42.jpg",
+      "s3_key": "Pier 101/2026-02-12/Raw/Pier 101-42.jpg",
+      "asset_type": "pier",
+      "segment": null,
+      "elevation": null,
+      "side_face": null,
+      "structural_segments": [],
+      "annotation_status": "completed",
+      "num_annotations": 3,
+      "annotations": [
+        {
+          "annotation_id": "1771012685181-cb2e0v555",
+          "bbox": {
+            "x": 2099.293256966054,
+            "y": 1976.469482655313,
+            "width": 739.6853146423018,
+            "height": 305.85648261817454
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "BG",
+            "label": "Biological Growth"
+          },
+          "severity": {
+            "level": 1,
+            "label": "Minor"
+          },
+          "structural_segments": [
+            {
+              "code": "CP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771012705175-panst78hy",
+          "bbox": {
+            "x": 3074.1428753761443,
+            "y": 1685.1134199475566,
+            "width": 263.8250074478286,
+            "height": 395.99117529257734
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CR",
+            "label": "Cracking"
+          },
+          "severity": {
+            "level": 1,
+            "label": "Minor"
+          },
+          "structural_segments": [
+            {
+              "code": "CP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771012716836-hqczswb6z",
+          "bbox": {
+            "x": 2412.980755133396,
+            "y": 3014.7717502270534,
+            "width": 804.3269183777985,
+            "height": 273.6610627708468
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "BG",
+            "label": "Biological Growth"
+          },
+          "severity": {
+            "level": 2,
+            "label": "Moderate"
+          },
+          "structural_segments": [
+            {
+              "code": "CP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        }
+      ]
+    },
+    {
+      "image_id": "c984718f-32a3-4713-b931-f40b48ff7c88",
+      "filename": "Pier 101-43.jpg",
+      "s3_key": "Pier 101/2026-02-12/Raw/Pier 101-43.jpg",
+      "asset_type": "pier",
+      "segment": null,
+      "elevation": null,
+      "side_face": null,
+      "structural_segments": [],
+      "annotation_status": "completed",
+      "num_annotations": 1,
+      "annotations": [
+        {
+          "annotation_id": "1771012734169-3g2wplhyb",
+          "bbox": {
+            "x": 4801.831702715458,
+            "y": 2137.44657840287,
+            "width": 410.20672837267716,
+            "height": 933.6671553358282
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "BG",
+            "label": "Biological Growth"
+          },
+          "severity": {
+            "level": 1,
+            "label": "Minor"
+          },
+          "structural_segments": [
+            {
+              "code": "CP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        }
+      ]
+    },
+    {
+      "image_id": "3af82909-6e14-4d82-b944-8ab72e25f9b6",
+      "filename": "Pier 101-44.jpg",
+      "s3_key": "Pier 101/2026-02-12/Raw/Pier 101-44.jpg",
+      "asset_type": "pier",
+      "segment": null,
+      "elevation": null,
+      "side_face": null,
+      "structural_segments": [],
+      "annotation_status": "completed",
+      "num_annotations": 3,
+      "annotations": [
+        {
+          "annotation_id": "1771012749817-xo6ts7d1f",
+          "bbox": {
+            "x": 2879.490367792519,
+            "y": 688.6527166748601,
+            "width": 490.6394202104575,
+            "height": 1328.0610399173422
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "RS",
+            "label": "Rust Staining"
+          },
+          "severity": {
+            "level": 1,
+            "label": "Minor"
+          },
+          "structural_segments": [
+            {
+              "code": "CP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771012895391-pmorqscw6",
+          "bbox": {
+            "x": 2002.7740267607187,
+            "y": 2193.7885619145145,
+            "width": 1303.0096077720336,
+            "height": 265.6122079834688
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "BG",
+            "label": "Biological Growth"
+          },
+          "severity": {
+            "level": 2,
+            "label": "Moderate"
+          },
+          "structural_segments": [
+            {
+              "code": "CP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771012904351-ct9plrsx0",
+          "bbox": {
+            "x": 2107.3365261498325,
+            "y": 2620.37786564554,
+            "width": 836.4999951129103,
+            "height": 643.9083829902263
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "BG",
+            "label": "Biological Growth"
+          },
+          "severity": {
+            "level": 2,
+            "label": "Moderate"
+          },
+          "structural_segments": [
+            {
+              "code": "CP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        }
+      ]
+    },
+    {
+      "image_id": "48feb3e1-6712-4b4b-a861-e80d0c646885",
+      "filename": "Pier 101-45.jpg",
+      "s3_key": "Pier 101/2026-02-12/Raw/Pier 101-45.jpg",
+      "asset_type": "pier",
+      "segment": null,
+      "elevation": null,
+      "side_face": null,
+      "structural_segments": [],
+      "annotation_status": "not_started",
+      "num_annotations": 0,
+      "annotations": []
+    },
+    {
+      "image_id": "26f8e585-5b88-4c6a-802a-6310c6a19cf6",
+      "filename": "Pier 101-46.jpg",
+      "s3_key": "Pier 101/2026-02-12/Raw/Pier 101-46.jpg",
+      "asset_type": "pier",
+      "segment": null,
+      "elevation": null,
+      "side_face": null,
+      "structural_segments": [],
+      "annotation_status": "completed",
+      "num_annotations": 2,
+      "annotations": [
+        {
+          "annotation_id": "1771012942035-a6ulrgzyw",
+          "bbox": {
+            "x": 1430.4447724880063,
+            "y": 1454.593299170202,
+            "width": 718.2920102192995,
+            "height": 989.1053220731702
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "AP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771012953703-n8km7ldl7",
+          "bbox": {
+            "x": 3321.3331412704356,
+            "y": 1792.486421617558,
+            "width": 343.7978852331685,
+            "height": 651.2121996258139
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 4,
+            "label": "Severe"
+          },
+          "structural_segments": [
+            {
+              "code": "AP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        }
+      ]
+    },
+    {
+      "image_id": "7ca2c329-a7c0-40c8-bf30-845e849b4be6",
+      "filename": "Pier 101-47.jpg",
+      "s3_key": "Pier 101/2026-02-12/Raw/Pier 101-47.jpg",
+      "asset_type": "pier",
+      "segment": null,
+      "elevation": null,
+      "side_face": null,
+      "structural_segments": [],
+      "annotation_status": "completed",
+      "num_annotations": 1,
+      "annotations": [
+        {
+          "annotation_id": "1771012965717-9szuyki85",
+          "bbox": {
+            "x": 1461.141012240968,
+            "y": 1294.8620049223607,
+            "width": 1326.0775573279373,
+            "height": 626.6381543569155
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "BG",
+            "label": "Biological Growth"
+          },
+          "severity": {
+            "level": 2,
+            "label": "Moderate"
+          },
+          "structural_segments": [
+            {
+              "code": "CP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        }
+      ]
+    },
+    {
+      "image_id": "115e7b0f-8ceb-47e7-a92f-0f6feccdcd6a",
+      "filename": "Pier 101-48.jpg",
+      "s3_key": "Pier 101/2026-02-12/Raw/Pier 101-48.jpg",
+      "asset_type": "pier",
+      "segment": null,
+      "elevation": null,
+      "side_face": null,
+      "structural_segments": [],
+      "annotation_status": "completed",
+      "num_annotations": 2,
+      "annotations": [
+        {
+          "annotation_id": "1771012983440-xjsg3hvlh",
+          "bbox": {
+            "x": 1632.7836443069311,
+            "y": 1759.150403396112,
+            "width": 627.374996334683,
+            "height": 627.8106734154708
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "CO",
+            "label": "Corrosion"
+          },
+          "severity": {
+            "level": 1,
+            "label": "Minor"
+          },
+          "structural_segments": [
+            {
+              "code": "CP"
+            },
+            {
+              "code": "SS"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771013288285-ewk35bon6",
+          "bbox": {
+            "x": 4327.278820872557,
+            "y": 2782.1324159679525,
+            "width": 788.2403800102426,
+            "height": 579.5175446912046
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "BG",
+            "label": "Biological Growth"
+          },
+          "severity": {
+            "level": 2,
+            "label": "Moderate"
+          },
+          "structural_segments": [
+            {
+              "code": "CP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        }
+      ]
+    },
+    {
+      "image_id": "7f33a093-2bcc-467e-ace1-8f7237b02eb4",
+      "filename": "Pier 101-49.jpg",
+      "s3_key": "Pier 101/2026-02-12/Raw/Pier 101-49.jpg",
+      "asset_type": "pier",
+      "segment": null,
+      "elevation": null,
+      "side_face": null,
+      "structural_segments": [],
+      "annotation_status": "completed",
+      "num_annotations": 4,
+      "annotations": [
+        {
+          "annotation_id": "1771013525084-ezvglj25c",
+          "bbox": {
+            "x": 2115.37979533361,
+            "y": 328.97350610706565,
+            "width": 828.4567259291325,
+            "height": 418.0939804257287
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "DE",
+            "label": "Decay"
+          },
+          "severity": {
+            "level": 1,
+            "label": "Minor"
+          },
+          "structural_segments": [
+            {
+              "code": "AP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771013535937-hjrje8w9g",
+          "bbox": {
+            "x": 2992.0961363654105,
+            "y": 1406.369532588751,
+            "width": 353.9038440862318,
+            "height": 241.2080656302281
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "DE",
+            "label": "Decay"
+          },
+          "severity": {
+            "level": 1,
+            "label": "Minor"
+          },
+          "structural_segments": [
+            {
+              "code": "AP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771013543204-o9xw6tvjw",
+          "bbox": {
+            "x": 1359.3124920584796,
+            "y": 2186.275611459822,
+            "width": 563.028842864459,
+            "height": 578.8993575125475
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "DE",
+            "label": "Decay"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "AP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771013552625-udfwnac7j",
+          "bbox": {
+            "x": 2903.620175343853,
+            "y": 2322.960181983618,
+            "width": 691.7211498049072,
+            "height": 426.13424928006987
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "DE",
+            "label": "Decay"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "AP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        }
+      ]
+    },
+    {
+      "image_id": "9e501d8d-fc4f-4ca0-9ecf-161a8341fc5f",
+      "filename": "Pier 101-50.jpg",
+      "s3_key": "Pier 101/2026-02-12/Raw/Pier 101-50.jpg",
+      "asset_type": "pier",
+      "segment": null,
+      "elevation": null,
+      "side_face": null,
+      "structural_segments": [],
+      "annotation_status": "completed",
+      "num_annotations": 4,
+      "annotations": [
+        {
+          "annotation_id": "1771013570854-6sj089ir8",
+          "bbox": {
+            "x": 2477.3269086036194,
+            "y": 763.1480242414765,
+            "width": 924.9759561344688,
+            "height": 345.7315607366603
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "DE",
+            "label": "Decay"
+          },
+          "severity": {
+            "level": 1,
+            "label": "Minor"
+          },
+          "structural_segments": [
+            {
+              "code": "AP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771013589148-ic419s8st",
+          "bbox": {
+            "x": 3056.4422898356347,
+            "y": 1744.0608244710706,
+            "width": 305.64422898356366,
+            "height": 184.9261836498418
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "DE",
+            "label": "Decay"
+          },
+          "severity": {
+            "level": 1,
+            "label": "Minor"
+          },
+          "structural_segments": [
+            {
+              "code": "AP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771013598717-fxorjvqqp",
+          "bbox": {
+            "x": 3169.0480584085267,
+            "y": 2371.2017951096636,
+            "width": 522.8124969455688,
+            "height": 562.8188198038656
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "DE",
+            "label": "Decay"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "AP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        },
+        {
+          "annotation_id": "1771013607143-txg94t9ph",
+          "bbox": {
+            "x": 1206.490377566698,
+            "y": 2700.852818137642,
+            "width": 603.2451887833487,
+            "height": 498.4966689691381
+          },
+          "shape_type": "rect",
+          "damage_type": {
+            "code": "DE",
+            "label": "Decay"
+          },
+          "severity": {
+            "level": 3,
+            "label": "Advanced"
+          },
+          "structural_segments": [
+            {
+              "code": "AP"
+            }
+          ],
+          "notes": null,
+          "defect_id": null
+        }
+      ]
+    }
+  ]
+}
